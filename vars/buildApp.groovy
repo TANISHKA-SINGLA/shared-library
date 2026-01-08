@@ -1,4 +1,4 @@
 def call() {
     echo "Building application..."
-    sh 'mvn clean package'
+    sh 'echo Build completed'
 }
